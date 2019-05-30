@@ -1,7 +1,18 @@
 {
   "posts": [
     {
-      {"ACND": "A N DEV NAGAR"}, {"ABB": "ABADA"}, {"AHA": "ABHAIPUR"}, {"AVP": "ABHANPUR JN"}, {"AYU": "ABHAYAPURI ASAM"}, {"ABS": "ABOHAR"}, {"ABR": "ABU ROAD"}, {"ABW": "ABUTARA"}, {"ULD": "ACHALDA"}, {"ACH": "ACHALGANJ"}, {"ELP": "ACHALPUR"}, {"ACK": "ACHARAPAKKAM"}
+      "ACND" : "A N DEV NAGAR" , 
+      "ABB" : "ABADA",
+      "AHA" : "ABHAIPUR",
+      "AVP" : "ABHANPUR JN",
+      "AYU" : "ABHAYAPURI ASAM",
+      "ABS" : "ABOHAR",
+      "ABR" : "ABU ROAD",
+      "ABW" : "ABUTARA",
+      "ULD" : "ACHALDA",
+      "ACH" : "ACHALGANJ",
+      "ELP" : "ACHALPUR",
+      "ACK" : "ACHARAPAKKAM"
     }
   ],
   "profile": {

@@ -1,5 +1,11 @@
-[{
- "ACND" : "A N DEV NAGAR",
- "ABB" : "ABADA"
-}]
-
+{
+  "posts": [
+    {
+      "ACND" : "A N DEV NAGAR",
+      "ABB" : "ABADA"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
